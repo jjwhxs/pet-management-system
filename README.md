@@ -139,7 +139,8 @@ public R detail(@RequestParam Integer id) {
 
 4）下载完毕后启动前端npm run serve，访问端口
 
-获取方式(可远程调试)
+### 获取方式(可远程调试)
+
 访问链接(在浏览器中手动输入下图中的地址)：
 
 <img width="1124" height="136" alt="链接" src="https://github.com/user-attachments/assets/2ca8063e-7114-4cae-8e22-9a35b26a2502" />
