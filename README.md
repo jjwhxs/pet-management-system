@@ -141,8 +141,6 @@ public R detail(@RequestParam Integer id) {
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1124" height="136" alt="链接" src="https://github.com/user-attachments/assets/2ca8063e-7114-4cae-8e22-9a35b26a2502" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWalZ9raQ==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
